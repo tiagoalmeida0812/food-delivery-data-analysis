@@ -7,7 +7,7 @@ Este projeto foi desenvolvido como parte da disciplina **Análises Descritivas e
 - `Projeto.ipynb`: Notebook principal com todas as etapas do projeto
 - `README.md`: Este arquivo
 
-## 👥 Integrante do Grupo
+## 👥 Integrante
 
 - Tiago Gonçalves de Almeida - RA 12523117709  
 [LinkedIn](https://www.linkedin.com/in/tiagoalmeida-ti/)
